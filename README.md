@@ -1,7 +1,6 @@
 <h1 align="center">Kinga Tshering</h1>
 
 <p align="center">
- # Research Intern, <b>University of Arizona</b> · College of Information Science<br>
   B.Sc. Computer Science and Engineering, <b>North South University</b>
 </p>
 
