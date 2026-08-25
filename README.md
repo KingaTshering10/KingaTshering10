@@ -27,14 +27,14 @@ I am applying to graduate programs in machine learning and am open to research c
 
 ### Research Experience
 
-**Research Intern** — University of Arizona, College of Information Science · 2026–present
+<!--**Research Intern** — University of Arizona, College of Information Science · 2026–present
 _Advisor: Prof. Haw-Shiuan Chang_ · Remote
 
 - Extending Asymptotic Probability Decoding (Chang et al., 2024) from extrapolation across model
   _scale_ to extrapolation across _context length_, removing the method's reliance on a family of
   same-recipe language models at multiple sizes.
 - Auditing the training pipeline — curve-fitting objective, top-_k_ candidate selection, and
-  numerical conditioning of the parametric decay fit — to isolate sources of training instability.
+  numerical conditioning of the parametric decay fit — to isolate sources of training instability. -->
 
 **Undergraduate Researcher** — North South University, Dept. of ECE · 2024–2026
 _Advisor: Prof. Shafin Rahman_ · Dhaka, Bangladesh
