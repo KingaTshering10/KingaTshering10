@@ -21,7 +21,6 @@
   <img alt="Three papers under review" src="https://img.shields.io/badge/Under%20review-TMLR%20%7C%20SSC%20%7C%20NeurIPS%20MusIML-b45309?style=flat-square">
 </p>
 
-⸻
 A single accuracy number hides more than it reports. A model that scores well may have answered a 
 different question than the one it was asked; a network that survives pruning tells you something 
 about which parameters ever mattered. I work on measuring what a model actually does — and I am 
@@ -183,7 +182,6 @@ Django scikit-learn Pandas NLTK
 
 </details>
 
-⸻
 <p align="center">
   <i>Open to research collaborations and Ph.D. opportunities in machine learning.</i><br>
   <a href="https://kingatshering10.github.io">kingatshering10.github.io</a>
